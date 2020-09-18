@@ -1,1 +1,2 @@
 error logs
+some information added for trainig working with git
